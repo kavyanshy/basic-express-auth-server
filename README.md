@@ -11,5 +11,16 @@ Edit Index.js file to add api
 -login
 
 # Add endpoints
+Chnage api in ```./index.js``` file
 
-![image](https://user-images.githubusercontent.com/68577038/229495096-0c13faa1-0a70-4053-8a77-65ae66448a07.png)
+
+### Change .env variables 
+
+
+ ```PORT = YOUR_PORT  ```
+ 
+  ```MONGOURL = YOUR_DATABASE_URL  ```
+  
+   ```SECRET_KEY = YOUR_ENCRYPTION_KEY(CAN BE ANYTHING LESS THAN 20 words)  ```
+
+

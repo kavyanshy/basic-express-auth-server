@@ -1,4 +1,6 @@
 # basic-express-auth-server
+neglect node_modules folder above!!
+
 Edit Index.js file to add api 
 
 # Auth API
